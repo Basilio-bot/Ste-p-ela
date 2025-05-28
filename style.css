@@ -106,9 +106,11 @@ body{
     font-size: 1.5rem;
 }
 
-.apresentacao__imagem{
-    width: 20%;
+.apresentacao__imagem {
+    width: 50%;
     height: auto;
+    display: block;
+    margin: 0 auto;
 }
 
 
