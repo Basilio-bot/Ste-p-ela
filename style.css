@@ -107,10 +107,11 @@ body{
 }
 
 .apresentacao__imagem {
-    width: 50%;
+    width: 300px;
     height: auto;
     display: block;
     margin: 0 auto;
+    border: 2px solid red; /* só pra testar se o estilo está funcionando */
 }
 
 
